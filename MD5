@@ -1,12 +1,12 @@
-d6bf318b3d0e2e4ae80901583de625e1 *DESCRIPTION
+70af1b2bbbf087373526769227c275e1 *DESCRIPTION
 7f50d60ef8655fec6aeafac0eeb0a06e *NAMESPACE
-3f73542958321bb02a720de1fcc421c1 *R/AcousticNDLCodeR_package.R
+1acce41853c950e1dc2aa1ff6babd4b9 *R/AcousticNDLCodeR_package.R
 b8a1f403d31e612111cb3a13557a9151 *R/CorpusCoder.R
 cffbdf5394c444a8b8f1d29109145797 *R/makeCues.R
 7096300915c56e25e23fcf1955d0cd68 *R/readAnnotation.R
-db92de2a582801b514598a87b1aaa22c *R/word_classification_data.R
+4e2b5c469a685484e09c44c6a53725d9 *R/word_classification_data.R
 de88fa0f6f56335f8a2bf6cd77a93069 *data/word_classification_data.rda
-3770766b0e38cffa47a6784d4c8330ad *man/AcousticNDLCodeR.Rd
+891713768ca929ebf9cc750dda2de7b9 *man/AcousticNDLCodeR.Rd
 b24af0a05291ff66b600117ece6e70d4 *man/CODE.Rd
 2ad5eb4e8db8dee9a8bc9c770d15b3fc *man/CorpusCoder.Rd
 84d4084b2bbabb5b506427c5d4ddd361 *man/getBoundary.Rd
@@ -15,4 +15,4 @@ b24af0a05291ff66b600117ece6e70d4 *man/CODE.Rd
 11326e19656e94c2967bc340a54cccc0 *man/readTextGridFast.Rd
 74dd5eb6b7a1c110230bc469c07cc6b5 *man/readTextGridRobust.Rd
 9a0779e4e542411ec2eb3bea4924d8ed *man/readWavesurfer.Rd
-45a56261e280ba3ac8b1ed655e3ae1f9 *man/word_classification_data.Rd
+555490c0a1126109b62212b105a29a10 *man/word_classification_data.Rd

@@ -3,7 +3,7 @@
 \docType{data}
 \name{word_classification_data}
 \alias{word_classification_data}
-\title{Data of PLOS ONE paper}
+\title{Data of PLoS ONE paper}
 \format{Data from the four experiments and model estimates
  \describe{
    \item{\code{ExperimentNumber}}{Experiment identifier}
@@ -27,9 +27,10 @@ data(word_classification_data)
 Dataset of a subject and modeling data for an auditory word identification task.
 }
 \references{
-Denis Arnold, Fabian Tomaschek, Konstantin Sering, Florence Lopez, and R. Harald Baayen (accepted).
+Denis Arnold, Fabian Tomaschek, Konstantin Sering, Florence Lopez, and R. Harald Baayen (2017).
 Words from spontaneous conversational speech can be recognized with human-like accuracy by 
 an error-driven learning algorithm that discriminates between meanings straight from smart 
-acoustic features, bypassing the phoneme as recognition unit. PLOS ONE
+acoustic features, bypassing the phoneme as recognition unit  PLoS ONE 12(4):e0174623. 
+https://doi.org/10.1371/journal.pone.0174623
 }
 \keyword{data}

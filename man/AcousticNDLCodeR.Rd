@@ -15,7 +15,8 @@ The packages main function is \code{\link{makeCues}}. \code{\link{readTextGridFa
          \code{\link{readWavesurfer}} are helper functions that read the corresponding annotation
          files and return a data.frame. \code{\link{CorpusCoder}} codes a whole corpus given a vector
          with the path to and names of wave files and a vector for the annotation files. 
-         \code{\link{word_classification_data}} provides data from Arnold et al 2017.
+         \code{\link{word_classification_data}} provides data from Arnold et al 2017 
+         https://doi.org/10.1371/journal.pone.0174623
 }
 \examples{
            \dontrun{
